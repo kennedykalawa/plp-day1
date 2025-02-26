@@ -1,0 +1,1859 @@
+WEBVTT
+
+00:00:05.000 --> 00:00:21.000
+Welcome everyone to This afternoon session for software engineering essentials You read instructor check-in And I'll be guiding you through today's lesson.
+
+00:00:21.000 --> 00:00:38.000
+So basically, today we want to unlock only two questions as an introduction like Why are we here and how shall we be here? You know, simple as that. Keep it simple.
+
+00:00:38.000 --> 00:00:51.000
+So… I'll be guiding you on and asking your attending to all your queries mostly pertaining your
+
+00:00:51.000 --> 00:01:13.000
+Lms navigation. So make sure that um you tune in and be very attentive because I don't intend to do this any other time later So make sure that you are really keen to reason and to pay attention.
+
+00:01:13.000 --> 00:01:32.000
+So that your journey will be easier and you'll have a simple time why navigating the rms and working around rms So welcome to PRP Academy and Here at PLP Academy.
+
+00:01:32.000 --> 00:01:51.000
+Learning happens on the LMS. Maybe you've never run through uh come across such as system before But here we manage our learning using the learning management system. That's what we call LMS.
+
+00:01:51.000 --> 00:02:08.000
+And the RMS is just this is like now your actual classroom okay this is where learning happens okay so learning does not happen outside LMS.
+
+00:02:08.000 --> 00:02:31.000
+Learning happens to be in the LMS. So it's very important for you to be able to know how to navigate the LMS So that… your planning journey will be simple and we'll make it quite wonderful okay like There should be no struggle. You shouldn't struggle at all.
+
+00:02:31.000 --> 00:02:45.000
+And, um. I taught the morning class guys that we left struggles for our forefathers who were struggling for independence For us.
+
+00:02:45.000 --> 00:03:04.000
+We form okay so you should be having the fall so i want to give you the flow of events And how just laying a good orientation on how things will be here and how we will be able to work around together
+
+00:03:04.000 --> 00:03:16.000
+So that your running journey will be quite uh a swing a soft tensed swim okay Yes.
+
+00:03:16.000 --> 00:03:25.000
+So let's start. First, for you to be here, you must have received your credentials, login credentials on LMS.
+
+00:03:25.000 --> 00:03:47.000
+Just in case you have any login issues. Not listening very well if you have any login issues that is maybe you don't have a password a username for the enemy's this is what you do. You come here at this button we call this button um
+
+00:03:47.000 --> 00:04:03.000
+Ticketing button it has a question type on it So the ticketing button you can lace it for any technical issues. Maybe you logged in into your LMS and you can't see anything. It's just blank. It can happen.
+
+00:04:03.000 --> 00:04:23.000
+Okay, maybe you log into your lms and there are some funny funny maybe weird messages you can't understand what it is. Maybe you're told i can't access content can't you know those there could be any weird thing that you can count on there and is now that's a technical issue.
+
+00:04:23.000 --> 00:04:34.000
+So for that matter, we have the ticketing button. So click on the ticketing button And then… fill in your names and your email.
+
+00:04:34.000 --> 00:04:52.000
+The email that you logged in you registered to be you registered PRP Academy with your phone number and then state what kind of issue are you facing for example Yeah, there are so many issues you can raise. For example.
+
+00:04:52.000 --> 00:05:01.000
+Say you have a organ issue okay or maybe a content issue or a progress issue or something whichever issue you might be having.
+
+00:05:01.000 --> 00:05:06.000
+Okay, sorry. Okay. So use 13 maybe a rogue.
+
+00:05:06.000 --> 00:05:17.000
+Issue. So maybe here I can check maybe my name. I see it's Powerland.
+
+00:05:17.000 --> 00:05:26.000
+And maybe I enter my mail. Pfb Academy.
+
+00:05:26.000 --> 00:05:32.000
+Uh… Oh.
+
+00:05:32.000 --> 00:05:45.000
+That means… Just giving you a reference. So something always sought Then maybe I can put my number as 769.
+
+00:05:45.000 --> 00:05:51.000
+One, two, three, four, five. That's a competent number.
+
+00:05:51.000 --> 00:05:58.000
+Oh.
+
+00:05:58.000 --> 00:06:09.000
+Sounds good. That's a good one. Yes, sir. Then subject, maybe maybe the content can't access the content.
+
+00:06:09.000 --> 00:06:14.000
+Content access issue. Content.
+
+00:06:14.000 --> 00:06:20.000
+Access. Issue.
+
+00:06:20.000 --> 00:06:44.000
+Then after doing that. You stating your content access issue um you can never bore it. For example, you can do a screenshot of the problem and you can tag a picture you can for example tag a picture here a picture of anything maybe something you got something you got
+
+00:06:44.000 --> 00:06:49.000
+Let's C. Oh, okay.
+
+00:06:49.000 --> 00:07:10.000
+Let's say that's our picture, that's our snapshot we snapped our whatever we were facing so you can target we see So whatever that maybe you encounter then you can give an explanation below of what it is okay of whatever thing that could be on your
+
+00:07:10.000 --> 00:07:28.000
+This image okay And then after that, doing that now you can now I'll make sure that you can now make sure that you can now you are able to raise your tickets.
+
+00:07:28.000 --> 00:07:36.000
+Okay, now you can maybe you can give a short description I encountered this error.
+
+00:07:36.000 --> 00:07:46.000
+I encountered. Uh this uh you know Just… Yeah. Cool.
+
+00:07:46.000 --> 00:07:52.000
+That's cool. Please help. Okay.
+
+00:07:52.000 --> 00:07:56.000
+Nice. So there we go.
+
+00:07:56.000 --> 00:08:04.000
+Once you have done that. You can now… lays the issue.
+
+00:08:04.000 --> 00:08:24.000
+You click this button you see this button is active now this issue now you just need to raise issue Then wait, we didn't read to… 24 hours your issue should be updated okay Yeah, so once you I'll just raise the issue.
+
+00:08:24.000 --> 00:08:41.000
+Weights the fastest or the quickest maybe the issue can be solved is maybe within three hours if it generates so much within maybe 24 hours okay That is, if you have login issues that's how you solve them.
+
+00:08:41.000 --> 00:08:46.000
+Now. Beyond login issues.
+
+00:08:46.000 --> 00:08:52.000
+Maybe you have… Oh.
+
+00:08:52.000 --> 00:09:09.000
+A question you're like we have this button we call faqs frequently asked questions So for example, this button will you'll some of the frequent common questions that students have raised before.
+
+00:09:09.000 --> 00:09:16.000
+Like, for example, can I code without a laptop maybe this was a question that was asked before.
+
+00:09:16.000 --> 00:09:32.000
+And you'll get an answer. You can code in a phone using rebrs I made a list is also mobile adaptive. You'll offer good experience on smart masks. However, we suggest an internet connected laptop or PC for best learning experience okay
+
+00:09:32.000 --> 00:09:45.000
+How can I record classes for my reference? You see, so all these types of questions that maybe students have asked before and they've got answered.
+
+00:09:45.000 --> 00:09:54.000
+You can use these FAQs to see frequent ask questions and your issue could be easily solved.
+
+00:09:54.000 --> 00:10:00.000
+Okay, that is that so i hope you understand me well aware.
+
+00:10:00.000 --> 00:10:10.000
+When it comes to login issues and maybe content access issues now that's it.
+
+00:10:10.000 --> 00:10:18.000
+But we can also now check on what is the rms like Why are we here? Okay.
+
+00:10:18.000 --> 00:10:23.000
+So first we are here because we want to learn software engineering.
+
+00:10:23.000 --> 00:10:43.000
+Okay, so basically What that means you will be equipped with software development issues skills, not issues but skills you'll be equipped with software development skills both in Web.
+
+00:10:43.000 --> 00:11:06.000
+Based apps and mobile-based apps. Okay. And also, once you are done with that skilling you will also receive a good uh nice orientation and specialization whereby you can specialize either to be a full web developer Or you can also specialize
+
+00:11:06.000 --> 00:11:15.000
+To be um mobile web developer, progressive web app developer.
+
+00:11:15.000 --> 00:11:37.000
+Or maybe you can also I'll be able to check on You can also be able to log in as specialized as an AI machine learning develop. So you can be an AI engineer after this So our main model of communication
+
+00:11:37.000 --> 00:11:42.000
+Easy communication to your to you learners, we use Telegram.
+
+00:11:42.000 --> 00:11:55.000
+So I hope you have a telegram up. Like this one mine installed in your phone Yeah, the reason why we use telegram because it's easy to use and Mostly.
+
+00:11:55.000 --> 00:12:17.000
+You'll find that there is it's it's it's allows a lot of people, a lot of groups large groups organizations. So for example, you can see Feb 2025 cohort announcements have around 6,13 subscribers so that's a right number whatsapp cannot
+
+00:12:17.000 --> 00:12:28.000
+For that so we end up using telegram it favors as it can hold up to 10 000 so we have were covered by telecom.
+
+00:12:28.000 --> 00:12:39.000
+So maybe if you want to know our more communication link tree maybe on our media there's this nice post that was made a few days ago on Telegram. You can meet it here.
+
+00:12:39.000 --> 00:12:45.000
+The ring tree it's all about link tree
+
+00:12:45.000 --> 00:12:58.000
+And you'll find that we've got a very nice communication link tree of how we do our communication so mostly join power and project official community there you go.
+
+00:12:58.000 --> 00:13:14.000
+You can also join this code. Community fun games events opportunities all that that is power women Now, each and every one of these you just need to come here and check.
+
+00:13:14.000 --> 00:13:28.000
+If you want to connect just click how you want to connect with them okay yes it becomes easier it becomes easier So through that you can be able to connect our social media hurdles very easily.
+
+00:13:28.000 --> 00:13:51.000
+On this screen okay wherever you want, wherever you feel you can be able to check But make sure you are on telegram discord as well is something good And… Yeah, you can follow us also on Instagram and other social media pages like x
+
+00:13:51.000 --> 00:14:05.000
+And what have you. It's okay use that tree Okay, that post is on Yeah, it's here on It was made on, let me see the date.
+
+00:14:05.000 --> 00:14:15.000
+It was, I think it was of february 10 The day the channel was created you'll find that it was the first post.
+
+00:14:15.000 --> 00:14:20.000
+Yes. So you'll get it there. So make sure you log in that.
+
+00:14:20.000 --> 00:14:30.000
+After that, there is… Something else I want you to check. For example.
+
+00:14:30.000 --> 00:14:47.000
+Oh. Yeah, once you got accepted this is also from there telegram Um… Of course, let me see. Let me see what is this.
+
+00:14:47.000 --> 00:14:54.000
+Oh, there's Lana Guide, yes. Open the runner guide.
+
+00:14:54.000 --> 00:15:10.000
+Looks good. There you go. This is our runner guide okay So you find there is a very good guide on for all runners project peer peer academy.
+
+00:15:10.000 --> 00:15:17.000
+So there is the runner selection criteria that was followed. How did you come here? How did you make it here?
+
+00:15:17.000 --> 00:15:42.000
+So first, we checked in the application form whether you first passed the literacy there was a literacy test then you should have scored a 50% But beyond that, he checked whether you have access to a laptop or a computer then internet after that we check for the computer literacy test.
+
+00:15:42.000 --> 00:16:04.000
+Okay so if you are here it means here you should have access to internets and will have access to a laptop Okay. Yes, we as power and we don't provide laptops, we don't provide internet connectivity it is you to ensure that you have those two
+
+00:16:04.000 --> 00:16:09.000
+Okay, it's on your side Okay, so once we ensured you are there.
+
+00:16:09.000 --> 00:16:21.000
+Then this is our core running modules. These are the basics You learn software engineering essentials what you're learning correctly for the first two weeks.
+
+00:16:21.000 --> 00:16:33.000
+Then you learn also database You learn web development, employability and startup building and Python. Those are basic modules.
+
+00:16:33.000 --> 00:16:48.000
+So this will take week one up to around week nine. So you will go with them week one to week you lenders okay Then after that.
+
+00:16:48.000 --> 00:16:53.000
+You will… have to specialize after week eight.
+
+00:16:53.000 --> 00:17:04.000
+That is on week nine you have specialization now on specialization, you specialize on full stack Development Month.
+
+00:17:04.000 --> 00:17:12.000
+It means man stands for mongol. The express react and node.js.
+
+00:17:12.000 --> 00:17:25.000
+Okay so uh man is uh specialization of web applications it means you'll be a full developer full stock developer in web applications.
+
+00:17:25.000 --> 00:17:55.000
+So software testing. Is all about… being able to guarantee and prioritize performance of software so you'll be know how to test the software whether it's a nap and how to check quality assurance automated testing and such okay Yeah, software testing is quite a high demand in demand skill
+
+00:17:55.000 --> 00:18:17.000
+In the current career choices. Then we will check on you can also specialize with mobile friendly with that whereby you can learn how to develop web progressive apps with mobile apps either iOS or… Android.
+
+00:18:17.000 --> 00:18:38.000
+Yes, ups, but using DAT and FRATA and then After that, you can also specialize in AI and software engineering, whereby you run ai machine learning You learn how to model AI machines and now you can now commit tasks using AI.
+
+00:18:38.000 --> 00:18:56.000
+Okay so basically that's it. You can only specialize in one Okay, so by the time you are at week nine, why not you have you have evaluated yourself maybe what are your interests in tech.
+
+00:18:56.000 --> 00:19:09.000
+And then you will know which one to specialize in okay Then how will the program do so our Classes are 10.
+
+00:19:09.000 --> 00:19:27.000
+To 12 p.m, the first class 10 a.m to 12 p.m Then we have the afternoon class, the class you are in now 2 p.m. To 4 p.m. And the last class is 6.30 to 8 that TPM.
+
+00:19:27.000 --> 00:19:34.000
+East African time. We also have gaming sessions on Saturdays from 11 a.m. To 12 p.m.
+
+00:19:34.000 --> 00:19:51.000
+And one hour. So make sure you join me for games your running is a bit gamified It's good. So how it works is that for the foundation for software engineering essentials lands for two weeks with one and two Monday to Friday.
+
+00:19:51.000 --> 00:20:04.000
+Then we have full stack. Week two to eight whereby you'll be learning about database entrepreneurship web development python and gaming on Saturdays. All right.
+
+00:20:04.000 --> 00:20:11.000
+And then finally, we have specialization week nine to week 15 or 16 there.
+
+00:20:11.000 --> 00:20:19.000
+Okay, so that's how you'll spend your 16 wants your 16 weeks Okay.
+
+00:20:19.000 --> 00:20:29.000
+And you'll have some belief check-ins of startups where you can share progress and plans for casting accountability and collaboration.
+
+00:20:29.000 --> 00:20:34.000
+So basically that's how your program is will be laid out.
+
+00:20:34.000 --> 00:20:56.000
+Something else to note. Some of the key RMS features is my learning submission timetable groups community ticketing dashboard FAQs. I've already shown you FAQs and ticketing it are built with their store shortly after our deal with all these i'll show you how to work with
+
+00:20:56.000 --> 00:21:02.000
+All these others okay Cool. All right.
+
+00:21:02.000 --> 00:21:09.000
+Then… some of the running activities you get involved in is things like master crafts.
+
+00:21:09.000 --> 00:21:32.000
+Master classes masterclass is a simply a virtual class that happens once and you are taught by an industry, a professional from the industry of tech and then he will explain a concept maybe Any concept be like maybe AI agents, how you can maybe use AI agents
+
+00:21:32.000 --> 00:21:51.000
+In your job automation skills like one we had last weekend. It was about AI agents yeah so that is a master class It happens once so make sure you in your running process, you should at least attend two master classes
+
+00:21:51.000 --> 00:22:11.000
+Okay. Also. There'll be hot covers a hackathon is a competition A competition phone showcase your skills in terms of how you can implement your skills by solving little world solutions.
+
+00:22:11.000 --> 00:22:23.000
+Okay so you are giving reward solutions to real world problems okay So make sure you attend at least two hackathons in your running progress.
+
+00:22:23.000 --> 00:22:37.000
+We can share this boot camps. These are challenges that will come up during weekend where you you also contest for coding and developing and developing great softwares.
+
+00:22:37.000 --> 00:22:45.000
+Over the weekend and you can do it in groups that's the beauty of it Yes, you don't have to struggle.
+
+00:22:45.000 --> 00:22:54.000
+On hackathons, you can be able to present a project or an idea as a group or as an individual.
+
+00:22:54.000 --> 00:23:00.000
+Then we have coffee and cold. Since most of our learning is virtual.
+
+00:23:00.000 --> 00:23:15.000
+We have a physical event we call coffee and cold So we gather maybe, for example, in an institution Mostly this happens in Kenya and Nigeria because that's where we have a lot of presence, physical presence students.
+
+00:23:15.000 --> 00:23:31.000
+We look forward to expanding. Coffee and coat to other countries as time wraps up. Yes, we will check how we can be able to unlab that.
+
+00:23:31.000 --> 00:23:43.000
+We meet physically we share coffee And we could okay yeah so that is that Then we have town hall sessions.
+
+00:23:43.000 --> 00:24:00.000
+These are sessions designed for you to give feedback. Okay, so you have a session for giving feedback on maybe your progress maybe you are stuck somewhere you can be able to raise your hand and say, hey, I'm finding it difficult here and here.
+
+00:24:00.000 --> 00:24:05.000
+Please help and you get helped. We also have guest registrants.
+
+00:24:05.000 --> 00:24:23.000
+Now, guest lectures are those moments when, for example, on the read module instructor for software engineering You can invite others, reach channels to come and train you on a concept like tomorrow invite a guest lectavan.
+
+00:24:23.000 --> 00:24:34.000
+Just to take you through it and github So I can invite gastric through a concept.
+
+00:24:34.000 --> 00:24:40.000
+Guest lectures we talk of guest lectures Then we have certification.
+
+00:24:40.000 --> 00:24:50.000
+Now the certification here we have two types of certificates
+
+00:24:50.000 --> 00:25:08.000
+The first type of certificate is certificate of achievement it's awarded to those who meet evaluation criteria that is you develop a fully functional project and you successfully submit a pitch deck.
+
+00:25:08.000 --> 00:25:17.000
+So this certificate of achievement recognizes outstanding performance and the ability to apply learned skills.
+
+00:25:17.000 --> 00:25:31.000
+In a practical setting. So the recipients of these, anyone who receives this certificate of achievement will be placed in the current tambour.
+
+00:25:31.000 --> 00:25:37.000
+Poor of job opportunities. Access and potential career placements.
+
+00:25:37.000 --> 00:25:50.000
+We intend to praise more than 3,000 people to connect more than 3000 of people to jobs So make sure you fall under this certificate of achievement.
+
+00:25:50.000 --> 00:25:57.000
+Yes, you deliver a competent fully functional project at the end of your 16 weeks of running.
+
+00:25:57.000 --> 00:26:18.000
+Then… we have certificate of participation say for example for whichever reasons you were not able to do a fully functional project and you are not able to deliver a pitch deck so you but you are active on the rms very active
+
+00:26:18.000 --> 00:26:25.000
+And you follow through all the modules, you completed them 100%. Remember, as you study the module.
+
+00:26:25.000 --> 00:26:43.000
+It will show you the percentage you've covered. Okay so assuming we've covered all the modules to an extent of 100 um This certificate is meant to acknowledge your commitment in learning.
+
+00:26:43.000 --> 00:27:03.000
+Even if you do not meet any additional evaluation criteria. So… The only thing that it doesn't do, it does not grant you access to current hub or job opportunities so this one after you are done We say thank you for participating
+
+00:27:03.000 --> 00:27:09.000
+God bless you and happy future. Okay yes so that is how it goes.
+
+00:27:09.000 --> 00:27:31.000
+So for achievement you are required to have a fully functional project a pitch deck, recognition level that it means you have an outstanding performance And it will also give you access to parent hub and job boxes so it's required for you to be able to progress
+
+00:27:31.000 --> 00:27:39.000
+For participation, all you need is commitment. In learning. Okay.
+
+00:27:39.000 --> 00:27:53.000
+Yes. So that is it. And make sure that you are able to progress on every module 100%.
+
+00:27:53.000 --> 00:28:00.000
+And you are good. That one will give you but it's a certificate of participation.
+
+00:28:00.000 --> 00:28:21.000
+When we go to project evaluation criteria now for those, I hope most of you and I hope all of you will go for project certificate of achievement So that guys you get placed for jobs Okay, yes, those jobs are for you, 3,000 plus jobs are for you.
+
+00:28:21.000 --> 00:28:31.000
+Okay, so make sure you do that you join in so that you can be able to Grab yourself a job.
+
+00:28:31.000 --> 00:28:37.000
+So when you deliver a project, we check one on code quality.
+
+00:28:37.000 --> 00:28:43.000
+What's the quality of your quote? You run what's called quality as you progress.
+
+00:28:43.000 --> 00:28:53.000
+Okay. Documentation. We'll check on how you've documented your solution the quality of your pitch deck.
+
+00:28:53.000 --> 00:28:59.000
+How will organize your pitch deck. You learn how to organized pitch decks.
+
+00:28:59.000 --> 00:29:11.000
+Kia very nicely and swiftly. The innovations and problem-solving skills you have shown in your problem we check your user experience.
+
+00:29:11.000 --> 00:29:25.000
+Engagements with your project that is the software product you're creating And we will also check conversion control. Mostly we do this using GitHub.
+
+00:29:25.000 --> 00:29:37.000
+So for you to be able to progress in this module, whether you with get a certificate of achievement participation you must have a github account.
+
+00:29:37.000 --> 00:29:55.000
+So through GitHub account we can be able to check on your commitment and the commits the type of engagements you've made with your projects so that we can know that for sure this is your project.
+
+00:29:55.000 --> 00:30:12.000
+And these ones we are very keen, especially for those groups projects. You can't claim to be doing a group project. Mostly group projects will involve five or less between three to five people.
+
+00:30:12.000 --> 00:30:19.000
+Now you can't claim to be doing a group project And you've done nothing. You have zero commits.
+
+00:30:19.000 --> 00:30:43.000
+For that project on your github So we will check to certify that if you're saying this is a group project Then you've already participated you've already done enough and you've done your work in the group project we check that.
+
+00:30:43.000 --> 00:30:51.000
+Okay. Yes. And I think that's a good thing that you can be able to do project as a group.
+
+00:30:51.000 --> 00:30:56.000
+It's a beautiful thing yeah you can be able to present as a copy.
+
+00:30:56.000 --> 00:31:01.000
+Group of three to five. Maximum. Cool.
+
+00:31:01.000 --> 00:31:07.000
+And finally… we do reach out to you guys.
+
+00:31:07.000 --> 00:31:24.000
+Just in case we really arise, you've not been able to log in to the rms Because I've told you that learning here happens on the elements. So if you realize that you've not been able to attend classes, live classes or even
+
+00:31:24.000 --> 00:31:36.000
+Check on rms we might reach out to you through the contacts info you've given us that is email for phone calls, texts.
+
+00:31:36.000 --> 00:31:48.000
+Maybe WhatsApp chats And just see whether we can help you to catch up and to come maybe to be able to come back to the running process.
+
+00:31:48.000 --> 00:31:56.000
+Okay. Yes. So we can reach out to you And then reach outs happen once per month.
+
+00:31:56.000 --> 00:32:02.000
+Not everyone here and then but mostly as command. Okay.
+
+00:32:02.000 --> 00:32:10.000
+So you'll be having pitching sessions You'll be thrown out of picture projects.
+
+00:32:10.000 --> 00:32:29.000
+Definitely. From week nine i think there so And then… What you'll do your first project do project submissions and evaluations and the selection of the top projects begins once you are done with your final project.
+
+00:32:29.000 --> 00:32:36.000
+Then we have group pitching guide So just in case you want to pitch as a group.
+
+00:32:36.000 --> 00:32:40.000
+We have a special guide for you how it is done as a group.
+
+00:32:40.000 --> 00:32:44.000
+We have presentations. To the entrepreneurship team.
+
+00:32:44.000 --> 00:32:57.000
+That is the first team you pitch to. They will check they quality of your pitch deck product and so forth and then they will may be varied edits.
+
+00:32:57.000 --> 00:33:03.000
+Maybe to go to the next step whereby you have one-on-one pitching guide as well.
+
+00:33:03.000 --> 00:33:22.000
+And then there is the presentation to PRP management team And after that they will select the PRP management team will select the top three best projects And those top three best projects are awarded during graduation.
+
+00:33:22.000 --> 00:33:28.000
+And you're given cash. Cash bids in dollars.
+
+00:33:28.000 --> 00:33:41.000
+Okay, nice cash pizza. I think the first project last year one was given i think twelve thousand dollars What can you do with $12,000?
+
+00:33:41.000 --> 00:34:00.000
+Just for doing your work. Okay, I think that's good money so yeah I hope the money will still remain the same so yeah there's a cash bid for you you'll be given a gift you'll be gifted. I wanted that your project is among the top three
+
+00:34:00.000 --> 00:34:15.000
+All right. So make sure you do the river a good competent projects so that one you don't miss out the cash I think 12,000 can really come in handy.
+
+00:34:15.000 --> 00:34:20.000
+Doras can really come in handy. Wow. Yeah. You know.
+
+00:34:20.000 --> 00:34:28.000
+In such a in such a in such a project competence competition Okay, that's good.
+
+00:34:28.000 --> 00:34:33.000
+Then there is the graduation part. So our graduation is virtual.
+
+00:34:33.000 --> 00:34:39.000
+It happens light show. After we must do that assessment and certification.
+
+00:34:39.000 --> 00:34:57.000
+So we check on class attendance. We check on the farro's active participation project completion, master classes and bootcups and town halls and pitch deck submission. We'll check on all that Yes.
+
+00:34:57.000 --> 00:35:02.000
+Allow me to speak about the pharaohs. If you ever check on the pharaoh.
+
+00:35:02.000 --> 00:35:09.000
+Maybe for any reason you are not able to continue with the Lanning.
+
+00:35:09.000 --> 00:35:16.000
+You can defer. But deferring means you it will affect your future eligibility.
+
+00:35:16.000 --> 00:35:30.000
+Scholarship you cannot be considered for any future scholarship. Because it means you when you are given that opportunity you didn't… maximize on it.
+
+00:35:30.000 --> 00:35:41.000
+And so we can't trust that even if you're given it again you will be able to utilize it Okay. Yes. So… That's how it can affect your progress.
+
+00:35:41.000 --> 00:35:50.000
+So… We have a talent department that checks on you once you finish the course.
+
+00:35:50.000 --> 00:36:06.000
+It gives a nice assessment and a complete project, Photoshop CV and check all the boxes that You've got already ticks and then they craft a pitch deck for you so that you can be able to do an elevation pitch to
+
+00:36:06.000 --> 00:36:13.000
+Industrial employers and yeah help you in job placement.
+
+00:36:13.000 --> 00:36:21.000
+Help all of you get to that department Yes, we hope to transition our view.
+
+00:36:21.000 --> 00:36:32.000
+So… if you don't participate, if you lack active participation in the program.
+
+00:36:32.000 --> 00:36:49.000
+You will be dropped off. You will be dropped off That means we theorize that you are not attending classes you are not accessing the elements So what, however, just happen will just be dropped off.
+
+00:36:49.000 --> 00:36:58.000
+And you'll be discontinued from the program. And you will not be accepted in future cohorts.
+
+00:36:58.000 --> 00:37:04.000
+Sponsorship. Okay. I had already talked about the ferments.
+
+00:37:04.000 --> 00:37:20.000
+Yes, so there it is. And like I said, if you defer It might affect it will directly affect your future eligibility feature scholarship and sponsorship.
+
+00:37:20.000 --> 00:37:25.000
+Okay, so that is it.
+
+00:37:25.000 --> 00:37:32.000
+And how is that? So that is why we are here.
+
+00:37:32.000 --> 00:37:37.000
+And I hope everybody got it clear as to why we are here.
+
+00:37:37.000 --> 00:37:46.000
+All right. Yes. Now that's it.
+
+00:37:46.000 --> 00:37:56.000
+I can now progress. How shall we be here? Let me progress to how Shall we be here?
+
+00:37:56.000 --> 00:38:05.000
+So that is that. So let me first give you a break so that you can zip your coffee.
+
+00:38:05.000 --> 00:38:24.000
+I know I've given you a lot of information Yeah, so just for the reads yeah I'll come to your questions at the end of your After this, shortly after this address all the questions so keep them posted on the Q&A section.
+
+00:38:24.000 --> 00:38:36.000
+I might not be able to follow up the chat, so make sure you maximize on the Q&A section. I think I'll be able to follow up that.
+
+00:38:36.000 --> 00:38:55.000
+Okay, nice. So how should we be here so we will be here by attending classes on the rms So this is the error message so basically on the rms the first part is my learning.
+
+00:38:55.000 --> 00:39:00.000
+So my learning, you should see the modules that are accessible to you.
+
+00:39:00.000 --> 00:39:09.000
+For example, at this point, you should only have one module that is software engineering only.
+
+00:39:09.000 --> 00:39:14.000
+The rest will appear. And they will unfold as you progress.
+
+00:39:14.000 --> 00:39:23.000
+Okay, so after two weeks you have access to database, entrepreneurship and personal development skills.
+
+00:39:23.000 --> 00:39:47.000
+Web technologies, Python. And such you get as you progress when you go to specialization based on your specialization you have access to other modules like AI for software engineering full stack web development with managed software testing and such.
+
+00:39:47.000 --> 00:39:52.000
+So that is that that is And that and fat as well.
+
+00:39:52.000 --> 00:39:59.000
+So but as for now So the only module you should be able to see is software engineering.
+
+00:39:59.000 --> 00:40:16.000
+Yes. Soft Age Engineering. Okay, so there you go is where you get the response. So you click on software engineering you'll see there are two types. There is curriculum you click on day one, you'll be able to see day one
+
+00:40:16.000 --> 00:40:24.000
+For example, reason one how to use the rms It's very nice lesson.
+
+00:40:24.000 --> 00:40:44.000
+The aim of this lesson is just to, the lesson we are learning today It's basically to help you run through the RMS. There are some videos nice videos you can watch on how to work on the rms And everything, for example, we can see
+
+00:40:44.000 --> 00:40:48.000
+How to work on peer to peer as a group
+
+00:40:48.000 --> 00:40:56.000
+Hello, this is how you access the peer-to-peer review feature on the LMS system. On the left navigation menu, select My Groups.
+
+00:40:56.000 --> 00:41:10.000
+Under my groups, select your designated group, which will be listed under my groups page. This will navigate you to a page with features such as your group name, submissions, and peer-to-peer review feature.
+
+00:41:10.000 --> 00:41:23.000
+On the peer-to-peer review page, you'll find options such as the group name, the submitted file, the rating and ad review. View the submitted file for which you are making a review for.
+
+00:41:23.000 --> 00:41:31.000
+And then make a review of the file on the add review option.
+
+00:41:31.000 --> 00:41:36.000
+So we give you that opportunity. You'll be having opportunity to run as groups.
+
+00:41:36.000 --> 00:41:56.000
+So you can be able to work as groups. On maybe assignments, you have assignments that you can work on as a groups We call them peer-to-peer groups. So you'll be grouped uh soon So to access peer groups, you just need to check on groups the groups
+
+00:41:56.000 --> 00:42:02.000
+Option you find your group there And most three varies.
+
+00:42:02.000 --> 00:42:15.000
+Group members i was up rink where you can be able to link up with those group members and i believe that has already been done already you should be in Kodena kia group.
+
+00:42:15.000 --> 00:42:24.000
+And yeah, making sure that you are running together. It's for easy learning.
+
+00:42:24.000 --> 00:42:31.000
+That's it. After my learning we have Passport.
+
+00:42:31.000 --> 00:42:38.000
+Dashboard, you check on your progress. Mostly, for example.
+
+00:42:38.000 --> 00:42:42.000
+Oh. Just in case.
+
+00:42:42.000 --> 00:42:49.000
+This message appears rewrote. Maybe it tells you it couldn't load significantly.
+
+00:42:49.000 --> 00:43:03.000
+Just the road temp page it should be him well for example you will get the progress of every module you are on for example Let me check on my software engineering.
+
+00:43:03.000 --> 00:43:12.000
+Can see uh progress 80%. Okay, cool. So there are things I need to do, forget?
+
+00:43:12.000 --> 00:43:25.000
+So for you to get a certification, a certificate of participation you should at least finish all these modules up to 100%.
+
+00:43:25.000 --> 00:43:36.000
+That's cool. It will give you the progress that's why we have dashboard just for you to be able to see the progress you'll also see the reader board see on the reader board, you get to see who is leading
+
+00:43:36.000 --> 00:43:46.000
+In terms of LMS usage. Okay. Some of you are here today, maybe it's your first time to log in the RMS.
+
+00:43:46.000 --> 00:43:56.000
+Vms was open for you guys on Friday. And on Friday evening, I remember there is a student who emailed me.
+
+00:43:56.000 --> 00:44:02.000
+And ask me how to progress to week Five, assignment.
+
+00:44:02.000 --> 00:44:20.000
+I don't know how fast she was. Able to navigate through the rms i think she was waiting for it to be open Once the door was opened, she went through, dido the assignment And I think she got some challenges and I helped her.
+
+00:44:20.000 --> 00:44:37.000
+Be able to overcome that challenge. So basically that's it so there's there are people you realize there are people who do very much on the RMS. So every activity you do on the RMS is like a connect And because it's recorded.
+
+00:44:37.000 --> 00:44:48.000
+It's given an award. Given an alert so like given what if you are first one like this guy here for these cohort.
+
+00:44:48.000 --> 00:44:55.000
+You'll receive a badge. Free badge of being there on the reader board for the LMS.
+
+00:44:55.000 --> 00:45:00.000
+Okay. Yes, you can see my score is quite down. I need to improve.
+
+00:45:00.000 --> 00:45:07.000
+On how I'm using my NMS. Poof, cool. Oh, I need to walk hunt.
+
+00:45:07.000 --> 00:45:14.000
+Okay, cool. So if your rms score is very down buck had to be a very doubted.
+
+00:45:14.000 --> 00:45:22.000
+Okay, and so that you can receive those badges. Okay, so that is dashboard.
+
+00:45:22.000 --> 00:45:37.000
+It shows you your progress. You'll be able to see your progress Again, on the dashboard you'll see the events you see the events So assuming there is an upcoming event, it will be uploaded here. You'll see the event details here on the events part.
+
+00:45:37.000 --> 00:46:06.000
+Thank you. Okay. Now, after dashboard there is cross sessions I don't know how you logged into today's class, but I hope you It's my hope that you came you're logged in through the crash session on the rms Because… Like I've said, your usage of the rms your activities on the rms is recorded and it's your rewarded points.
+
+00:46:06.000 --> 00:46:26.000
+Okay, so to increase your points, always make sure that you log in every class using the rms So if you want to attend a class it's very easy. You just need to click maybe on Like today is 24th so i think
+
+00:46:26.000 --> 00:46:43.000
+I can just book here. If I want to book tomorrow's class, I can just click here I can be able to click here and register to join okay you register maybe you should register before 12 hours before class. From 12 hours you can
+
+00:46:43.000 --> 00:46:53.000
+Go ahead and register. Yes, so that's how you are able to join classes.
+
+00:46:53.000 --> 00:47:00.000
+Make sure you join classes for EMS. That's it.
+
+00:47:00.000 --> 00:47:19.000
+We have the other part of submissions. So maybe you have submitted quiz and results after you have submitted you can be able to see and you will quiz the results. Unfortunately, I don't think have I don't think I've submitted any
+
+00:47:19.000 --> 00:47:24.000
+I don't think so. I've not submitted these. So there is no data for me.
+
+00:47:24.000 --> 00:47:30.000
+No data that can be Let me see. Does software development claim.
+
+00:47:30.000 --> 00:47:42.000
+I don't think there is anything for me there. But if maybe you submitted also assignment you will see the assignments you've submitted here.
+
+00:47:42.000 --> 00:47:58.000
+You'll be able to see the assignment. Submitted so for example Let me show you how to submit assignments. So you just go to my learning.
+
+00:47:58.000 --> 00:48:10.000
+Let me see. Let me check for our module of notes and load because i know for software engineering I've been loads Okay, let me just use software engineering.
+
+00:48:10.000 --> 00:48:16.000
+It's okay. So there you go.
+
+00:48:16.000 --> 00:48:24.000
+Oh.
+
+00:48:24.000 --> 00:48:29.000
+Let's go to day one assignment. The one assignment.
+
+00:48:29.000 --> 00:48:41.000
+There is the assignment. I'm there i'm on the assignment. So you'll talk to follow instructions provided the dead drying is on March that 1, 25, 2025.
+
+00:48:41.000 --> 00:48:49.000
+So make sure that by March that one you are done with all the software engineering essentials
+
+00:48:49.000 --> 00:49:07.000
+Assignments and you're done. Okay so there are some good instructions of how to uh how Like… be able to go around They… assignments, all right?
+
+00:49:07.000 --> 00:49:12.000
+So you read those instructions And after reading the instructions.
+
+00:49:12.000 --> 00:49:23.000
+You go ahead now and do the assignment. So you can click here click here light creek once you write creek say open lights.
+
+00:49:23.000 --> 00:49:44.000
+Link in a new tab, open link in a new tab there you go And it should open up and ask you to accept. Once you accept you should find this Okay. You should find a GitHub laptop So click on that GitHub rep where you find
+
+00:49:44.000 --> 00:49:55.000
+The reason why you have seen that for me it has not prompted me to accept is because i've accepted the I've accessed this assignment before.
+
+00:49:55.000 --> 00:50:00.000
+You'll get so click on the githubo.
+
+00:50:00.000 --> 00:50:06.000
+So you need a GitHub account. Before you attempt an assignment.
+
+00:50:06.000 --> 00:50:13.000
+You need a GitHub account. And you don't have to worry. I'll show you how to create one. It's very easy.
+
+00:50:13.000 --> 00:50:19.000
+You don't have to worry. You don't have to struggle. Creating a GitHub account.
+
+00:50:19.000 --> 00:50:30.000
+So once you're on your github account repo all you need to do is make sure you For example.
+
+00:50:30.000 --> 00:50:37.000
+Oh.
+
+00:50:37.000 --> 00:50:48.000
+Make sure you are on that level. And once you are on the level That is software the one project the it's.
+
+00:50:48.000 --> 00:50:54.000
+Just edit edit this Lead me. This lead me fire.
+
+00:50:54.000 --> 00:51:13.000
+Is the one you edit. Okay see here there is a prompting you open in Visual Studio Code. You can do that no problem But I think the most important thing is just a bit Edit these software uh this lead me
+
+00:51:13.000 --> 00:51:24.000
+Answer the questions. You see there are questions here. Answer them in your best Norridge plausible and then commits. Once you commit and save commit these changes.
+
+00:51:24.000 --> 00:51:29.000
+Just click your code. And check for HTTPS.
+
+00:51:29.000 --> 00:51:35.000
+Copy the URL. All right copy the URL.
+
+00:51:35.000 --> 00:51:42.000
+All right. And once you copy the URL.
+
+00:51:42.000 --> 00:51:49.000
+Just going… paste it at the submission part.
+
+00:51:49.000 --> 00:51:58.000
+And it's that easy to submit an assignment. Okay, you just Press it there and submit.
+
+00:51:58.000 --> 00:52:06.000
+Now. It is possible for example sometimes to light crickering the ring.
+
+00:52:06.000 --> 00:52:27.000
+And instead of giving you it or instead of it redirecting you to For example, the way you've seen I've right clicked open in a new tab I found a nice lepo that has got good information It is possible that this level you click here, it's possible for you to be directed in unnamed teleport.
+
+00:52:27.000 --> 00:52:43.000
+An empty report is a report that has nothing. Okay, so don't worry in case that happens just right click here there is so that's that's why it is that is function if we direct it to an empty repository follow these instructions below.
+
+00:52:43.000 --> 00:52:48.000
+So you link you right click open in a new tab.
+
+00:52:48.000 --> 00:52:58.000
+So this one, it will give you a document that has the question, the same questions you would have found on the GitHub.
+
+00:52:58.000 --> 00:53:08.000
+Report okay so copy all these questions You can just… Copy. All right.
+
+00:53:08.000 --> 00:53:17.000
+And once you copy You can even answer fast answer the questions and copy then copy paste.
+
+00:53:17.000 --> 00:53:26.000
+You piss them on a readme file. You just come here and now on the empty Lippo you can add a new file.
+
+00:53:26.000 --> 00:53:33.000
+You can add a new file just add a new file And on that new file that should be added to me.
+
+00:53:33.000 --> 00:53:38.000
+So that… I don't need me fire.
+
+00:53:38.000 --> 00:54:00.000
+And on that lead me fire make sure make sure. Oh, I've not signed in. That's why it cannot be able to okay Let me save one so that you can be able to see.
+
+00:54:00.000 --> 00:54:08.000
+Okay. So cool. So cool.
+
+00:54:08.000 --> 00:54:12.000
+So you can add a new file. Just add a new file.
+
+00:54:12.000 --> 00:54:35.000
+Create a new fire make sure it's already domain copy paste your work there Okay, just paste. Let's assume you're pasting copy paste your work there and then commit okay and once you commit you make sure you give your fire a name. Maybe you call it assignments
+
+00:54:35.000 --> 00:54:44.000
+Assignment. Whatever maybe assignment one or day one assignment That's true.
+
+00:54:44.000 --> 00:54:49.000
+Let's call it day one. Day one assignment.
+
+00:54:49.000 --> 00:54:53.000
+And dot md the markdown.
+
+00:54:53.000 --> 00:54:57.000
+Noctivity okay Then I can commit the changes.
+
+00:54:57.000 --> 00:55:03.000
+Okay. That's all you can commit the changes.
+
+00:55:03.000 --> 00:55:20.000
+And that's all you see? So that is what you do. Here it is. So the assignment will be creativity here. I've created it that was an assumption Like the way I've studied, assuming you are open an empty lepo that's how you go about it.
+
+00:55:20.000 --> 00:55:39.000
+You create a new And you make sure that you just create a new file and add it to your repo to that repo that you've found empty. But if they empty the foul lepo is not empty, there has an assignment like this one just cricket it
+
+00:55:39.000 --> 00:55:51.000
+Type your answers. To the best of your knowledge for example And maybe once you're done.
+
+00:55:51.000 --> 00:55:58.000
+Commits, changes. And once you commit changes.
+
+00:55:58.000 --> 00:56:03.000
+You're good.
+
+00:56:03.000 --> 00:56:10.000
+Then you can just come here at code. Make sure it's on HTTPS, not SSH.
+
+00:56:10.000 --> 00:56:18.000
+Or GitHub CRI just that. And then copy the url all right copy the URL.
+
+00:56:18.000 --> 00:56:48.000
+And then go to PRP Academy, submit. And then submit you paste the submit and then submit okay Para de venta you realize Sorry, a minute.
+
+00:57:03.000 --> 00:57:18.000
+Okay so para de Venture you have entered the long maybe submission at your submission level first submission you submitted the wrong link you can just go to your Oh.
+
+00:57:18.000 --> 00:57:33.000
+Github Lepo correct pick the correct link and then once you pick the correct rink come here at submissions And then assignment submission. Check on the assignment that you submitted wrongly.
+
+00:57:33.000 --> 00:57:45.000
+And then a date, click a date you can change the link And then updates. You just need to maybe like delete that link.
+
+00:57:45.000 --> 00:57:51.000
+And then you paste the new rink that you think is correct then updates.
+
+00:57:51.000 --> 00:58:01.000
+That the assignment link will be updated successfully. It's that easy.
+
+00:58:01.000 --> 00:58:23.000
+I hope that clears the AI on how to submit assignment how to correct assignment links and how to make sure that you update your assignment links just in case you submitted along or repo assignment now note you must have a GitHub account for you to be able to attempt an assignment
+
+00:58:23.000 --> 00:58:30.000
+You just need to go to github.com. And GitHub.
+
+00:58:30.000 --> 00:58:34.000
+Dot com.
+
+00:58:34.000 --> 00:58:44.000
+Not dashboard, just dot com it will sign into my dashboard let me sign out.
+
+00:58:44.000 --> 00:58:51.000
+So that you can see what you will see if it's your first time to see GitHub.
+
+00:58:51.000 --> 00:58:56.000
+Okay. So there i go this is what you find.
+
+00:58:56.000 --> 00:59:10.000
+In the beginning. Just say sign up for github Okay. And just create an account just like the way you create an email account or any other online account you'll be told to test whether you are a robot, make sure you
+
+00:59:10.000 --> 00:59:15.000
+Verify you are not a robot. And you'll be good.
+
+00:59:15.000 --> 00:59:31.000
+All right. It's going to be pretty cool. Maybe you and don't struggle you should not struggle to create a github account just go to youtube dot com.
+
+00:59:31.000 --> 00:59:48.000
+Maybe for easy for easy throw i've told you struggle struggling we left it to our dependent our forefathers who are struggling for our independent So nowadays we don't struggle. There is information for anything you want to do.
+
+00:59:48.000 --> 00:59:57.000
+So just say creating our GitHub account.
+
+00:59:57.000 --> 01:00:02.000
+Github. I couldn't.
+
+01:00:02.000 --> 01:00:14.000
+Creating a GitHub account Okay. Yeah. So there is very many videos to show you how to create with github account even how to use GitHub.
+
+01:00:14.000 --> 01:00:24.000
+Okay. Yes. And how to work around github Yeah, so yes so do not struggle. Do not struggle in any way.
+
+01:00:24.000 --> 01:00:35.000
+Okay. Yes. All right. That's it. Hopefully by tomorrow, make sure you have a GitHub account or by after this make sure you have a GitHub account.
+
+01:00:35.000 --> 01:00:41.000
+And you can be able to submit the assignment.
+
+01:00:41.000 --> 01:01:02.000
+All right after that there is the community tab Now on the community tab you can get to connect with other people All right. And you can get to connect with other people who have been in the peer academic program.
+
+01:01:02.000 --> 01:01:19.000
+Okay. Yes. And you can comment, you can cheer others, you can for example help I'm Tony Mondicchi who is asking has anyone successfully registered for today's class and you can comment Yes, I have.
+
+01:01:19.000 --> 01:01:41.000
+Yes. Okay. Cool. So you see so That's it. Maybe if somebody knows you, for example, you can see somebody asking told him to use Google meet maybe there is somebody who knows antony madicki He has seemed to use Google Mint.
+
+01:01:41.000 --> 01:01:48.000
+Okay, I don't know which kind of class is that. Maybe behavior across on Google, they could happen.
+
+01:01:48.000 --> 01:01:55.000
+Okay.
+
+01:01:55.000 --> 01:02:03.000
+If you have made any posts you check here on what have you posted.
+
+01:02:03.000 --> 01:02:10.000
+Fortunately, I've posted nothing so far so good. Okay, yes.
+
+01:02:10.000 --> 01:02:17.000
+These account is just to help you to understand Rana.
+
+01:02:17.000 --> 01:02:24.000
+The learner perspective, actually. I don't use this. I use my admin account so Mary, will I post anything?
+
+01:02:24.000 --> 01:02:38.000
+Okay. That's cool. So that is that interact with the community The more you interact with the community, the more you earn more rewards points. That really helps.
+
+01:02:38.000 --> 01:02:50.000
+Gain reward points. Finally, but not least, but we have gemini tab This is the tab that I hope you will interact with most.
+
+01:02:50.000 --> 01:03:01.000
+Because it is very helpful in when it comes to like walking around
+
+01:03:01.000 --> 01:03:19.000
+In the rms so especially for your assignments you can always connect with gemini And with the light prompts it can help you to successfully to your assignment well.
+
+01:03:19.000 --> 01:03:37.000
+Okay. Yes. So it's a good tool. And also notes maybe there is something you've read and you've not understood well say for example you are on my learning and some something was just mentioned belief free maybe like for example you find
+
+01:03:37.000 --> 01:03:50.000
+Something like… software project management was highlighted and you are like, what is that? Then you can just come here Ask Gemini, what is software project management?
+
+01:03:50.000 --> 01:04:03.000
+It will give you nice details of what is software project management and Gemini will never be mad at you to tell you, oh, you've asked me too many questions.
+
+01:04:03.000 --> 01:04:13.000
+Yeah, Mr. Gemini is a good one. Who will always answer your queries as they come through.
+
+01:04:13.000 --> 01:04:23.000
+Hope you interact with Gemini more. Finally, we have the certificates part whereby if you have any certificates they will be posted here.
+
+01:04:23.000 --> 01:04:36.000
+All right yeah they'll be posted here And you will enjoy the certificates. Any certificates you have, maybe you've participated in a power hack or hackathons.
+
+01:04:36.000 --> 01:04:53.000
+You will see that as certificates updated there or maybe you've uh completed your session you have a certificate of participation it should appear there or certificate of achievement it should appear there. Good.
+
+01:04:53.000 --> 01:05:04.000
+Also, now here there is some more information about Um.
+
+01:05:04.000 --> 01:05:19.000
+Your cohort For example, this was for Safaricum who called channel for so for you as it should be leading feb 2025 cohort? Yes.
+
+01:05:19.000 --> 01:05:25.000
+Oh, God. I think God, since you have not long.
+
+01:05:25.000 --> 01:05:29.000
+Yeah. So that is the LMS.
+
+01:05:29.000 --> 01:05:33.000
+Concerning your…
+
+01:05:33.000 --> 01:05:47.000
+Your rms profile you can set it the way you want But… not very necessary, though.
+
+01:05:47.000 --> 01:06:01.000
+Even if you leave some parts and updated no problem it will never affect your progress But it is good to make sure you update this sector.
+
+01:06:01.000 --> 01:06:19.000
+Up to this amount make sure you can update For the final project, you update the ring Once you… start your final project okay All right. The rest you can upgrade as you wish.
+
+01:06:19.000 --> 01:06:36.000
+Cool. That's cool. Um… But remember, the more you like engage with elements the better the points. So for better points make sure you feel like all of this.
+
+01:06:36.000 --> 01:06:41.000
+It's beautiful. Okay. That's it.
+
+01:06:41.000 --> 01:06:48.000
+Now let's check a few things.
+
+01:06:48.000 --> 01:06:56.000
+On my learning a few things on my learning So we've checked on how to do assignments.
+
+01:06:56.000 --> 01:07:15.000
+We've checked on events. So at least you know what's event notification there will be notification most three of you download content Okay. Yeah, that is your download content, mostly.
+
+01:07:15.000 --> 01:07:25.000
+That's when notification comes in or if there is a new message on community that concerns you to have a mention to be updated there.
+
+01:07:25.000 --> 01:07:33.000
+So let's say for example We've read this lesson. You see this lesson is being recorded.
+
+01:07:33.000 --> 01:07:52.000
+So where will you find the recordings of this lesson? You just need to come at day one for example and check for a restaurant that has your cohort name recording for example You can see here we have Safari kombucha's recordings. Leave that that does not belong to you.
+
+01:07:52.000 --> 01:07:57.000
+It was for them okay we go to lesson five.
+
+01:07:57.000 --> 01:08:16.000
+Feb cohort, Feb 2025 cohort recordings click on that. That's where your recordings are now you'll find there is, for example, the live class morning session This was a recorded class this is the recorded version of the class that happened in the morning.
+
+01:08:16.000 --> 01:08:22.000
+It's always good to check. You might find that Even though all crusts are similar.
+
+01:08:22.000 --> 01:08:36.000
+Okay, maybe there's something I said in the morning But I have not said in this class okay or maybe there's something I've said in this class But I didn't say in the morning or that I will say in the evening.
+
+01:08:36.000 --> 01:08:51.000
+There could be one or two or more variations. So you can check for your own good So for you to be able to view the recordings, click on the live class right click all the rings on the rms you have to right click they are not
+
+01:08:51.000 --> 01:09:03.000
+They don't operate by clicking. You have to right click. Open maybe So once you open copy this passcode. Okay.
+
+01:09:03.000 --> 01:09:08.000
+You have to copy it. Because you'll be asked for it.
+
+01:09:08.000 --> 01:09:13.000
+I think I had accessed it. If it's your first time to access it.
+
+01:09:13.000 --> 01:09:19.000
+You'll be asked for a passcode so make sure you copy it and give it for you to be able to view.
+
+01:09:19.000 --> 01:09:25.000
+But for me, I think I had accessed it i had to test it whether it was working before I came to class.
+
+01:09:25.000 --> 01:09:28.000
+So that's why it has just opened. So then you pray the recording.
+
+01:09:28.000 --> 01:09:30.000
+You can be able to navigate. On the rms simply because At P.
+
+01:09:30.000 --> 01:09:37.000
+And… you can as you can see it's So don't don't cut me.
+
+01:09:37.000 --> 01:09:38.000
+And in case you are asked for as account type choose student.
+
+01:09:38.000 --> 01:09:44.000
+By checking my recordings are not working. They are working as you can see they are working okay yeah so everything is working well.
+
+01:09:44.000 --> 01:09:47.000
+Things are not uploaded in Google Drive format they are uploaded in This is a zone crowds so it is
+
+01:09:47.000 --> 01:09:58.000
+Cool. That is. That is how you should be able to access recordings just in case you miss cross it also works good for you.
+
+01:09:58.000 --> 01:10:10.000
+If you want to now the best thing about deal with this recording download it to your machine local machine why LMS is a dynamic platform, as you can see.
+
+01:10:10.000 --> 01:10:16.000
+And so things keep on changing Okay, things keep on changing.
+
+01:10:16.000 --> 01:10:32.000
+So for your better access of such recordings. Download them and because they are very long you see like this decoding is around two hours even not long He has 1 hour 51 minutes.
+
+01:10:32.000 --> 01:10:37.000
+That's quite a long record, isn't it? So watch it on net.
+
+01:10:37.000 --> 01:10:47.000
+Maybe it might if you are using Buddles you will struggle but if you're not using burdos, we're good But for future accessibility.
+
+01:10:47.000 --> 01:11:00.000
+You know as time goes for example i think in the morning we tried to access the shook recordings and they were not available after one month or so the recordings will be deleted. They are not there forever.
+
+01:11:00.000 --> 01:11:03.000
+Okay, we are just there to help you to catch up.
+
+01:11:03.000 --> 01:11:10.000
+Okay, so it's assumed that after one month you have catched up everything you wanted to catch up.
+
+01:11:10.000 --> 01:11:14.000
+So just in case for future reference of your own you can download.
+
+01:11:14.000 --> 01:11:20.000
+You can just download there is always this button download.
+
+01:11:20.000 --> 01:11:33.000
+So download them download the recordings so that you can enjoy them even offline Okay. Yes. It's easier that way.
+
+01:11:33.000 --> 01:11:42.000
+Yeah, and after you after one month, they will be deleted. They will not be available after one month so Yeah. Cool.
+
+01:11:42.000 --> 01:11:47.000
+So far, so good. That said.
+
+01:11:47.000 --> 01:11:52.000
+Also on the Oh.
+
+01:11:52.000 --> 01:11:58.000
+For example, on the
+
+01:11:58.000 --> 01:12:08.000
+So for example, now we access software engineering the first this kind of the first lesson of your module.
+
+01:12:08.000 --> 01:12:14.000
+Change. Nice. Coron, where you are.
+
+01:12:14.000 --> 01:12:24.000
+So you can see there is the restaurant content Okay. And this content is accessible. If you want to run this code.
+
+01:12:24.000 --> 01:12:37.000
+You must install an SDK. Like vs code okay where you don't have to worry what's VS Code just go to your Browser.
+
+01:12:37.000 --> 01:12:44.000
+Check for VS code. Me is good.
+
+01:12:44.000 --> 01:13:06.000
+Simple. Yes, Kodak. You will learn how to install this tomorrow. So today I will not go into details of installation i'll just go to show you where you can find it Download the VS Code model of your choice but that is not what I want. You can click download button
+
+01:13:06.000 --> 01:13:12.000
+So if you click download button you should be able to see.
+
+01:13:12.000 --> 01:13:19.000
+Models either is for Windows or Linux or mac download and be happy.
+
+01:13:19.000 --> 01:13:32.000
+Install then you can copy and learn that could they could for the good term you need a vs code Yes, you need VS code. You won't learn just like that.
+
+01:13:32.000 --> 01:13:38.000
+Okay, copy the code on yes code and learn it. It will learn.
+
+01:13:38.000 --> 01:13:44.000
+Also, you might need, for example, this is a python code If I'm not long.
+
+01:13:44.000 --> 01:13:51.000
+And since this is a Python code. Mostly the codes here are pi bond, actually.
+
+01:13:51.000 --> 01:13:59.000
+The codes here, most of them are pylon So for you to be able to run You will also need to install Python.
+
+01:13:59.000 --> 01:14:14.000
+Okay, so come here and type python Just don't struggle. I told you there is no struggle. We don't struggle nowadays okay Python, welcome to python.og. Yeah, nice.
+
+01:14:14.000 --> 01:14:28.000
+Come here to downloads download for your downloads windows uh either windows or mac if you are onlinex you don't have to worry Python comes installed in Linux by default.
+
+01:14:28.000 --> 01:14:37.000
+Okay. Yes. Where even in Windows, Pybomb comes installed But it is good to install this one.
+
+01:14:37.000 --> 01:14:49.000
+For reasons I will tell you later. On day three as we will tomorrow maybe i will tell you tomorrow So today, let me not dive into that. Okay.
+
+01:14:49.000 --> 01:14:56.000
+So you can download and install. That is that. Um for you for that code to run.
+
+01:14:56.000 --> 01:15:02.000
+Okay, I'm just telling you just in case you want to test that codec? Yes.
+
+01:15:02.000 --> 01:15:24.000
+Primarily, that's how you go around that. Now, there is downloading the content for example you want to download this content There is the download content button you click on it it will send you an email.
+
+01:15:24.000 --> 01:15:31.000
+A mirror with download details. On your email okay download content.
+
+01:15:31.000 --> 01:15:37.000
+So that is that. But also.
+
+01:15:37.000 --> 01:15:53.000
+There could be sorry Also, there could be additional resources for example You see this link it has an additional link uh resources for example introduction to software engineering right click on it.
+
+01:15:53.000 --> 01:16:01.000
+Open link on a new tab it will directly read you to guide you to the presentation.
+
+01:16:01.000 --> 01:16:06.000
+Representation on software engineering
+
+01:16:06.000 --> 01:16:28.000
+So it's very key you note that most of the resources to access extra resources within the URL, you right click there don't try clicking they will not respond they are not responsible just uh one greek And that is to ensure that you are not boggled, you know, boggled by
+
+01:16:28.000 --> 01:16:44.000
+Anything that you meet that needs to be clicked okay Yeah, the focus is to make it easier. The reason why we make sure that you can only right click to get a result It means that you need to you are at that point when you need badly sauce.
+
+01:16:44.000 --> 01:16:52.000
+Okay. Yes. So make your work easier. So that's that.
+
+01:16:52.000 --> 01:16:59.000
+There is always a video. Some lessons have video content not or I've just said not my words.
+
+01:16:59.000 --> 01:17:08.000
+Some lessons, video content. Like I think this one should have video content.
+
+01:17:08.000 --> 01:17:16.000
+Yeah. Why is it not getting it? It should get it.
+
+01:17:16.000 --> 01:17:25.000
+Let me see.
+
+01:17:25.000 --> 01:17:35.000
+Awesome content. Did you get the rest on
+
+01:17:35.000 --> 01:17:51.000
+So at times you can fight get these challenges just make sure you restart your reading You can just…
+
+01:17:51.000 --> 01:18:02.000
+Reset the browser it will work. Towards restarting computing works wonders most of the time
+
+01:18:02.000 --> 01:18:11.000
+For example it's it was refusing just after restarting. It's working now.
+
+01:18:11.000 --> 01:18:34.000
+So after refreshing you see it's working you can always refresh the browser if it gives you that message, that error message, oh, content what just rogue in case it persists log out log in again it will work okay such problems are expected. So you'll find a video like this one this one will
+
+01:18:34.000 --> 01:18:44.000
+Is a video. A restaurant video for just to explain to you what the restaurant is all about.
+
+01:18:44.000 --> 01:18:49.000
+Okay. Yes. And it's important.
+
+01:18:49.000 --> 01:18:58.000
+You can download it as well. And… Yeah. And be watching offline no problem.
+
+01:18:58.000 --> 01:19:03.000
+Right. That's cool. That's it.
+
+01:19:03.000 --> 01:19:11.000
+So you can be able to check all that. Any queries so far so good?
+
+01:19:11.000 --> 01:19:29.000
+Think of it's print. Everything about navigation, quizzes Any living assignments i've touched on them Now it's very important to understand every aspect of the LMS.
+
+01:19:29.000 --> 01:19:34.000
+Because this is where burning happens. So let me see your queries.
+
+01:19:34.000 --> 01:19:40.000
+On the Q&As. So go to Q&As.
+
+01:19:40.000 --> 01:20:07.000
+I'll be able to see all your carries.
+
+01:20:07.000 --> 01:20:19.000
+Somebody is saying ciders hack. Hakuziman. Okay, hakuzimana.
+
+01:20:19.000 --> 01:20:27.000
+You're saying that I'm now able to log in, but my names are not corrected yet. My name's Silah Hakuana. Okay.
+
+01:20:27.000 --> 01:20:33.000
+So Sila, for that. You can lay the ticket.
+
+01:20:33.000 --> 01:20:42.000
+We are not able to change your names on the profile Just leave the ticket for that. It's a technical issue.
+
+01:20:42.000 --> 01:20:49.000
+Laser ticket for that i had already How do we get PRP cohort teragram link?
+
+01:20:49.000 --> 01:20:56.000
+Ah, it's there on the… I believe it's telegram link.
+
+01:20:56.000 --> 01:21:10.000
+Where do you get it? That one, I'm not. Let me see whether I can. I don't know whether I can be able to share or invite you I'm not pretty sure. I'm on telegraph. Maybe somebody should guide me.
+
+01:21:10.000 --> 01:21:20.000
+On how to share territory i rarely use telegraph myself. Um… But I'm trying.
+
+01:21:20.000 --> 01:21:25.000
+I'm really trying. View channel info in full.
+
+01:21:25.000 --> 01:21:43.000
+Let me see. Okay.
+
+01:21:43.000 --> 01:21:49.000
+I don't know how you share. Honestly, I'm there, but I don't know how to share the link.
+
+01:21:49.000 --> 01:22:09.000
+So maybe some somebody can tell me how to do that or if you're in paragram you can try share the link on the… On the… Under what on the chat that's okay try that you will help your colleagues here. Somebody's stuck
+
+01:22:09.000 --> 01:22:17.000
+Sorry to disturb. May I have how reacted life crisis seems 80% of them are mandatory.
+
+01:22:17.000 --> 01:22:40.000
+How to attend is very easy. I already explained that you attend a rive class by going to cross sessions Um… and then you book you you register simple Yeah. The cross sessions are open 12 hours before.
+
+01:22:40.000 --> 01:22:53.000
+So you can register as early as 12 hours before and then just wait to join okay for example Oh.
+
+01:22:53.000 --> 01:23:00.000
+Here there is no crash sessions for today. Uh huh.
+
+01:23:00.000 --> 01:23:11.000
+I don't know. Okay.
+
+01:23:11.000 --> 01:23:29.000
+Bishop because sessions have changed. I think it's because… Now, in case you should see con sessions like of daily they are updated they are updated good and great conversations.
+
+01:23:29.000 --> 01:23:35.000
+Okay, then we'll try to refresh my and see whether i'll get one
+
+01:23:35.000 --> 01:23:43.000
+I am not there. So here you will see all the crash sessions that you have. For example.
+
+01:23:43.000 --> 01:23:48.000
+On your ends this is not your God, this is Safarcom.
+
+01:23:48.000 --> 01:24:00.000
+But on your cohort, you should be able to see Safari come this week uh not safari com but software engineering essentials the cohorts up to Friday.
+
+01:24:00.000 --> 01:24:19.000
+You get so you just pick one for example like that And then… that one is already added. So let's assume you are entering that or let's assume you are going for this that with pattern you just need to click here to register and join.
+
+01:24:19.000 --> 01:24:30.000
+Okay, that's good. Is that easy? Okay, I hope that one sort your question out.
+
+01:24:30.000 --> 01:24:35.000
+All right. Another one is asking
+
+01:24:35.000 --> 01:24:39.000
+Oh. What application will be coding on?
+
+01:24:39.000 --> 01:24:47.000
+I've just explained application will be coding is VS Code. Yes, VS Code.
+
+01:24:47.000 --> 01:25:02.000
+Can someone have two sessions a day? Yes, you can enter in even though they're dream there is no it should actually it will be an additional point for you you'll be rewarded better.
+
+01:25:02.000 --> 01:25:09.000
+What's a beach deck? Can someone be awarded both certificate is successful or just one?
+
+01:25:09.000 --> 01:25:21.000
+You just get one based on what you did. If you provide a The pitch deck is just a presentation of your project.
+
+01:25:21.000 --> 01:25:37.000
+Simple i've said you'll be taking how through how to create one Then you can only be given certificate of achievement if you deliver a fully functional project and a pitch deck.
+
+01:25:37.000 --> 01:25:58.000
+That's when you get a certificate of achievement. You don't have that but you have participated through the process and you committed yourself to 100% completion of every module you get certificate of participation or not both.
+
+01:25:58.000 --> 01:26:15.000
+That's cool. When we reset up GitHub today as early as today, I think I've explained that you need a github account But tomorrow you'll have a live session of setting up one just in case you are not able to set by your own
+
+01:26:15.000 --> 01:26:25.000
+But as I've explained to you, you should be able to set up one by your own Yes, very easy.
+
+01:26:25.000 --> 01:26:45.000
+We have… events where we hear from professionals who have specialized in the field we want to specialize yes of the spring that's that's the reason why we have master classes Chibonso okay that's why we have master classes we invite professionals
+
+01:26:45.000 --> 01:26:51.000
+Who are already practicing in the field and they talk to you.
+
+01:26:51.000 --> 01:26:57.000
+And that's all about master classes. Oh.
+
+01:26:57.000 --> 01:27:10.000
+Teragram link maybe you can ask from your friends i i really don't have an access to one currently I think I don't know how to share one. I wish I knew I could have helped you.
+
+01:27:10.000 --> 01:27:17.000
+But ask your friends to share on the chat. Maybe somebody should share on the chat a Telegram link how to join.
+
+01:27:17.000 --> 01:27:23.000
+Have zero ideas personnel. Why am I not able to access group telegram at home?
+
+01:27:23.000 --> 01:27:28.000
+A moment, I'm sorry. You should check.
+
+01:27:28.000 --> 01:27:41.000
+There is an invitation link you got. You should have gotten an email with an invitation link to all that to Oh, wow.
+
+01:27:41.000 --> 01:27:47.000
+Telegram channel and the rms I hope you got one.
+
+01:27:47.000 --> 01:27:52.000
+What do you mean drop off by not attending classes or accessing module?
+
+01:27:52.000 --> 01:28:10.000
+Yeah, if you are not accessing cross modules. And you are not, that is the life cross like we are having today Currently. And you are not also logging into RMS.
+
+01:28:10.000 --> 01:28:16.000
+Okay. Then you'll be dropped off. And you'll be discontinued from the program.
+
+01:28:16.000 --> 01:28:20.000
+Completely. Yes.
+
+01:28:20.000 --> 01:28:39.000
+But before you are dropped off, there will be a reach out to you to tell you you should come back So maybe you also don't respond to a phone an email a phone call or a text when we have no option but to discontinue you.
+
+01:28:39.000 --> 01:28:54.000
+No. Apart from group project, will everyone be required to present his own project no it's if you are in a group project that is the final project. That's what I'm saying.
+
+01:28:54.000 --> 01:29:00.000
+You will present as a group Okay, so there'll be no issue with that.
+
+01:29:00.000 --> 01:29:04.000
+But if you are an individual, you present as an individual.
+
+01:29:04.000 --> 01:29:10.000
+Okay. Yes. Oh, mm-hmm.
+
+01:29:10.000 --> 01:29:29.000
+On GitHub be supported by phone, not one get an account which apps to use on phone Like I said, phone bookacha you can use lab kit on phone But it is limited. Note, the print is limited but you can use lip treats.
+
+01:29:29.000 --> 01:29:41.000
+Github you can have a github there's a github app on the phone but it is also limited in terms of operation compared to desktop.
+
+01:29:41.000 --> 01:29:51.000
+Okay, so make sure you have one on your laptop or desktop yes Okay.
+
+01:29:51.000 --> 01:30:05.000
+Oh. Oh. How will we be able to show that one has done for us Like I said, anything you do on the rms it's recorded.
+
+01:30:05.000 --> 01:30:11.000
+So if you are for example studying using the rms and it's recorded.
+
+01:30:11.000 --> 01:30:16.000
+So why do not? Oh.
+
+01:30:16.000 --> 01:30:22.000
+And there is an assignment I should submit. Yes, I've already shown the assignment.
+
+01:30:22.000 --> 01:30:38.000
+And how to go about it so in case you didn't get that part After class, make sure you watch this video have explained how to go to assignment and be able to sort out assignments.
+
+01:30:38.000 --> 01:31:05.000
+Okay, cool. So I'm checking for a new question.
+
+01:31:05.000 --> 01:31:12.000
+Very regulated by clicking the link.
+
+01:31:12.000 --> 01:31:33.000
+And you can create your own credentials burial Yeah, it's very dangerous to Just like have access to LMS without credentials so create your own credentials Don't put it open. It's dangerous.
+
+01:31:33.000 --> 01:31:50.000
+Somebody can hack your LMS. Yeah, and it means the other people might be able to use it if they access your email okay Yes. Comfreeti Jenna.
+
+01:31:50.000 --> 01:32:02.000
+Oh. Is it possible to do two modules given, I'm able to pursue them.
+
+01:32:02.000 --> 01:32:14.000
+No, you want to choose one. But what it is not restricted you can attend the classes for other modules. There is no restrictions to add that. You can attend the classes for other modules.
+
+01:32:14.000 --> 01:32:26.000
+And you can also develop a project in them so there is no problem but for specialization you choose one But if you want knowledge on other modules it's available. Just attend the class.
+
+01:32:26.000 --> 01:32:43.000
+Do the projects they are given wearing goods okay Yes, but specialization or no one how is cross attendance But very easy if you just attended, it means you had registered.
+
+01:32:43.000 --> 01:32:56.000
+And so that registration was registered on Zoom. And Zoom helps us to analyze your data for all the attendance, the attendees who did attend today's class.
+
+01:32:56.000 --> 01:33:04.000
+Yes. Yes. So… we get very easily as well.
+
+01:33:04.000 --> 01:33:22.000
+Also, if you attended using your rms and you clicked on the class session by a cross session reads also very easy to enter because after they session zoom will tell me how many Students, why both log in as all your details
+
+01:33:22.000 --> 01:33:28.000
+They hit a missile as well. Okay, chlorium kwana.
+
+01:33:28.000 --> 01:33:34.000
+Is it normal that I have absolutely no study materials on my EMS? No, it's abnormal.
+
+01:33:34.000 --> 01:33:55.000
+You should have at least on my learning there should be one module that is software engineering essentials this one software engineering So in case that's the case then laser ticket. I said, you just come here raise a ticket do your name your email your number
+
+01:33:55.000 --> 01:34:18.000
+Your category of issue maybe you say content issue because you don't have content and then uh continue give it a subject you don't have maybe anything on my rms and then explain a bit give a simple explanation of your rms you can even screenshot to show
+
+01:34:18.000 --> 01:34:26.000
+Better okay and then raise the issue. I think I showed that before.
+
+01:34:26.000 --> 01:34:34.000
+So it's not normal. Let me see any other question on Here.
+
+01:34:34.000 --> 01:34:44.000
+How can someone access the day one assignment because there is no link to the assignment or submission link The restaurant took the day the same.
+
+01:34:44.000 --> 01:34:55.000
+So… So you can see if once you've got software engineering essentials you go to day one.
+
+01:34:55.000 --> 01:35:00.000
+Part of Press on five.
+
+01:35:00.000 --> 01:35:08.000
+Day one. There is the quiz, the survey, and the last part is assignment, day one assignment.
+
+01:35:08.000 --> 01:35:24.000
+That's how you access it. Just in case your RMS does not have maybe she has the rest on day one day to raise a ticket Okay. Yes.
+
+01:35:24.000 --> 01:35:31.000
+The restaurants we are attending are all the same like what we are doing in this lesson is what we did in the morning.
+
+01:35:31.000 --> 01:35:36.000
+Okay. Yeah, so… just choose to attend one.
+
+01:35:36.000 --> 01:35:46.000
+Don't struggle to attach flies not unless maybe you enjoyed the craft so much and maybe you want to enjoy the same maybe zockey.
+
+01:35:46.000 --> 01:35:53.000
+But the content is the same. Who makes the groups?
+
+01:35:53.000 --> 01:35:57.000
+The groups will be assigned Eventually.
+
+01:35:57.000 --> 01:36:02.000
+You are assigned groups. By the end of the moon, ma'am.
+
+01:36:02.000 --> 01:36:08.000
+Just like the way you are given login access the same way.
+
+01:36:08.000 --> 01:36:15.000
+I should go to Chris.
+
+01:36:15.000 --> 01:36:27.000
+I've been convincing new class. How do I connect Nigerian group members
+
+01:36:27.000 --> 01:36:34.000
+I think you're in Nigeria.
+
+01:36:34.000 --> 01:36:45.000
+Um… in your groupings you'll be grouped as linking the groupings, I'm not very sure how you are grouped.
+
+01:36:45.000 --> 01:37:04.000
+The criteria might not be that you are from the same country But maybe you can reach out and see whether there is a WhatsApp group you can Okay, we encourage you guys you can use any means of communication you can you want
+
+01:37:04.000 --> 01:37:26.000
+But the best way would go via telegram. Go via telegram and check whether there is Are we, are we a way of checking um For example… ask the discuss group on the discuss group ask connect with members from your country
+
+01:37:26.000 --> 01:37:41.000
+I think they can be able to connect from there. You can even offer I was up maybe rank and they can be able to join from there that that can happen Okay. Yes.
+
+01:37:41.000 --> 01:37:48.000
+All right. That's it. A hole is closeted and checked.
+
+01:37:48.000 --> 01:37:59.000
+I've trunked. I think I've already explained that babo chambole Some classes collage with my invest how can i access director data?
+
+01:37:59.000 --> 01:38:06.000
+I've already shown that just in case you've missed the lecture you just need to go to My learning.
+
+01:38:06.000 --> 01:38:13.000
+Check on… class lesson varies.
+
+01:38:13.000 --> 01:38:34.000
+Maybe day one, for example, check on There is a reason for your recordings like for example for you it will always be fab 2025 cohort recordings check there and there you'll find the recording you'll find the record in event
+
+01:38:34.000 --> 01:38:45.000
+Lesson will be posted there afterwards. For example, you can see the morning class is already posted you can be able to Light Creek.
+
+01:38:45.000 --> 01:38:52.000
+And logging and enjoy. Make sure you use the passcode.
+
+01:38:52.000 --> 01:38:58.000
+To access the view. Without that passcode you cannot access the view.
+
+01:38:58.000 --> 01:39:09.000
+All right. So that is how you do it. Oh, mm-hmm.
+
+01:39:09.000 --> 01:39:17.000
+So you sign in how do you sign in for cross attendance you just need to go to crash sessions pre-condition.
+
+01:39:17.000 --> 01:39:32.000
+And then there will always be a choice of For example, if I click here you can see there is cricket register and join the session That's how you do it.
+
+01:39:32.000 --> 01:39:41.000
+Okay. I'm very relieved. I'm asking your questions. Thank you for your time.
+
+01:39:41.000 --> 01:39:51.000
+I want to focus on our own long pipeline. Oh.
+
+01:39:51.000 --> 01:40:00.000
+Yeah.
+
+01:40:00.000 --> 01:40:10.000
+Yeah, I said, uh. Currently, the only module you should be able to see is software engineering.
+
+01:40:10.000 --> 01:40:30.000
+The rest will appear as you continue. For example, others like python we love peer after two weeks.
+
+01:40:30.000 --> 01:40:36.000
+So software engineering will only go for two weeks, 10 days actually.
+
+01:40:36.000 --> 01:40:43.000
+And the content is arranged in five days. Every day has at least two restaurants.
+
+01:40:43.000 --> 01:40:51.000
+Yeah. So make sure you check that. And let me check for a question that I've not answered.
+
+01:40:51.000 --> 01:41:06.000
+The program is self-paced. You should be able to be free to lead at your own pace but we will explain a few concepts here and there. You can also always ask questions.
+
+01:41:06.000 --> 01:41:21.000
+It's expected that before you come to Christ, you've already covered by yourself whatever is on the on the rms and you can be able to ask questions and interact with your readings, Rata.
+
+01:41:21.000 --> 01:41:38.000
+Okay, what is that celebration? Accreditation.
+
+01:41:38.000 --> 01:41:46.000
+The prudence Kadura. Oh.
+
+01:41:46.000 --> 01:42:04.000
+The certification you get in prp is globally recognized Yeah, it's strawberry and coconut. Think of it as a certificate like the one you do in microsoft or the one you do in maybe Oracle because it shows us skill.
+
+01:42:04.000 --> 01:42:09.000
+Okay. Yes. I think that is that.
+
+01:42:09.000 --> 01:42:18.000
+Joy Prudence. Uh… Is it mandatory for one today?
+
+01:42:18.000 --> 01:42:32.000
+To do the day one quiz immediately after day one classes or one can do it any other day. It all depends on how first you want to move well curved seed, for example.
+
+01:42:32.000 --> 01:42:51.000
+I give an example. There was this student who called me on Friday. On Friday, once you were given the login access that night a student called me not quote but emailed me And she told me that she was already on day four
+
+01:42:51.000 --> 01:42:58.000
+And she wanted to go to day five Because it's self-paced it's you to determine how you occur.
+
+01:42:58.000 --> 01:43:11.000
+All right so you can do it immediately you can wait The only thing is that you cannot be able to move to next week's content without having done the quizzes and the surveys and the assignments.
+
+01:43:11.000 --> 01:43:15.000
+One day. Okay.
+
+01:43:15.000 --> 01:43:37.000
+Oh. Check your email check your internet if your rms is not loading check your internet
+
+01:43:37.000 --> 01:43:55.000
+The recordings are live after class. I'm checking for a new Query.
+
+01:43:55.000 --> 01:44:09.000
+Pitch checks everything you do is virtual even pitch deck It's virtual. We don't have physical classes Yeah.
+
+01:44:09.000 --> 01:44:25.000
+So somebody is telling me, have groups been informed are confirmed that you i don't know. I don't have access to your cohorts like content like the way I have, I've told you what I have here is what was for Safari.
+
+01:44:25.000 --> 01:44:31.000
+So check out whether your groups have been formed. I am not fully aware of that.
+
+01:44:31.000 --> 01:44:45.000
+So I'm not in a position to answer that. Hmm.
+
+01:44:45.000 --> 01:45:05.000
+No, the restaurants are not continuation each lesson is a repetition of what have been happening the whole day so choose only one
+
+01:45:05.000 --> 01:45:11.000
+There is no Say, for example, we have a hackathon.
+
+01:45:11.000 --> 01:45:16.000
+Power huck. Power hack. They are called powerham.
+
+01:45:16.000 --> 01:45:25.000
+So if you have a power hug session then for that you have to travel say for example we say we have power hug at UON.
+
+01:45:25.000 --> 01:45:29.000
+If you need to participate in that you can you have to travel.
+
+01:45:29.000 --> 01:45:41.000
+You get but layered we have such Most of the hackathons are virtual. Most sort of hackathons are virtual, but at times we can have a powerhouse.
+
+01:45:41.000 --> 01:46:02.000
+Which maybe it's done a specific place mostly that's when you might need to travel but larry like last cohort we didn't have one We discourage such because we want you guys to two things come virtually.
+
+01:46:02.000 --> 01:46:20.000
+And since our program is virtual. We realized that that program is not really good for our students. So what we have is coffee and cold sessions, those are the only physical things. If you want to travel, wear and good. So for example, if you have
+
+01:46:20.000 --> 01:46:27.000
+We have for example we have upcoming on feb 28 We have a coffee and cold events.
+
+01:46:27.000 --> 01:46:33.000
+Awful. Suicidal oats.
+
+01:46:33.000 --> 01:46:45.000
+Not for you guys. So if you want to to participate in that you can travel to it will be in St. Paul's University. You can travel there your way there, okay?
+
+01:46:45.000 --> 01:47:08.000
+But you don't have to. For you guys, we don't expect a road from you. We don't expect you to do September 2080 is on Friday, so we don't expect that maybe you you'll be… we don't expect to engage with for the previous cohort but not for you guys. For you guys
+
+01:47:08.000 --> 01:47:13.000
+Before we create an event, we have also to ensure that we have
+
+01:47:13.000 --> 01:47:27.000
+Equipped you to being in a position to enjoy that event we don't want to call you to events where you float Okay. Yes.
+
+01:47:27.000 --> 01:47:33.000
+That's cool. I think I've answered you better.
+
+01:47:33.000 --> 01:47:40.000
+Oh.
+
+01:47:40.000 --> 01:47:49.000
+So I'm doing my university coursework in parallel, so may not be able to
+
+01:47:49.000 --> 01:47:54.000
+So this is how it works. Maybe you are not able to attend a live class.
+
+01:47:54.000 --> 01:47:59.000
+Make sure you go to the rms and follow up on the recording.
+
+01:47:59.000 --> 01:48:20.000
+Okay, that's why you have a recording. All right we understand you could be busy on other things, but make sure you follow the recording so that you're… consistency on the lms shows up Yes, and life crushes always make sure you find time to attend one
+
+01:48:20.000 --> 01:48:49.000
+Yes, 80% of rife crashes is required. Remember that? Is.
+
+01:48:49.000 --> 01:48:57.000
+So I don't know which assignment you attempted and it's Checking August 2024.
+
+01:48:57.000 --> 01:49:04.000
+Cohort. But our assignments are that week.
+
+01:49:04.000 --> 01:49:17.000
+Whichever assignment you get maybe i don't know um could be that you on your edit didn't Oh.
+
+01:49:17.000 --> 01:49:26.000
+I don't get it because i don't get it because the assignment we are having is These are S E day one.
+
+01:49:26.000 --> 01:49:32.000
+Yeah, don't worry. Of any other thing is SDD1.
+
+01:49:32.000 --> 01:49:37.000
+And maybe the two degree Do that.
+
+01:49:37.000 --> 01:49:44.000
+Okay. I think that's cool. I think I've answered most of your questions. Anyone with a query?
+
+01:49:44.000 --> 01:49:50.000
+Maybe…
+
+01:49:50.000 --> 01:49:58.000
+The dashboard have only Feb 2025 cohorts. Has only you guys.
+
+01:49:58.000 --> 01:50:02.000
+You cannot be mixed with other cohorts. There is no mix up.
+
+01:50:02.000 --> 01:50:10.000
+Okay. Yeah.
+
+01:50:10.000 --> 01:50:18.000
+That it is you who open the content. I've already explained say for example you have done the assignments.
+
+01:50:18.000 --> 01:50:28.000
+Let me show you. I think this one I'll show you with… I think I've never done anything with that photo.
+
+01:50:28.000 --> 01:50:41.000
+So for example, if I want to unlock next week for this session assuming this is software engineering And I have just to come here and click this button unlock next week.
+
+01:50:41.000 --> 01:50:48.000
+Yes. Then I'll be told there is a quiz I have to attend. So make sure you attend the quiz.
+
+01:50:48.000 --> 01:50:58.000
+After you complete maybe there is an assignment complete and then click unlock again this day week two will be unlocked.
+
+01:50:58.000 --> 01:51:04.000
+Yes.
+
+01:51:04.000 --> 01:51:13.000
+And finally, let me maybe there is somebody whose hand is up Anybody, let me see.
+
+01:51:13.000 --> 01:51:30.000
+I can see some hands up. So I want to give you time to talk. Mila Billy, you are allowed to talk
+
+01:51:30.000 --> 01:51:38.000
+Mila Billy.
+
+01:51:38.000 --> 01:51:44.000
+Mila Billy. Not talking.
+
+01:51:44.000 --> 01:51:52.000
+No one else.
+
+01:51:52.000 --> 01:51:55.000
+If you've raised your hand up, it means you want to talk.
+
+01:51:55.000 --> 01:52:02.000
+So that's why i'm giving you has to talk.
+
+01:52:02.000 --> 01:52:26.000
+Um… Oh, I see bounces on the core instructor events. He'll be taking you tomorrow through um like installation of git and github and how to work with maybe code and VS Code and Python.
+
+01:52:26.000 --> 01:52:32.000
+So it'll take you through that session tomorrow events you can say hi to the learners
+
+01:52:32.000 --> 01:52:38.000
+Okay, thank you, Jaquin. And hi, everyone. I hope you are well.
+
+01:52:38.000 --> 01:52:57.000
+And I hope to meet you tomorrow, the whole day. You're going to be spending the day together creating data, setting up our account development servers And then we didn't end actually have some fun with github so tomorrow hope to see you all there
+
+01:52:57.000 --> 01:53:14.000
+Okay, thank you, Evans. Events is our daddy here. We call him daddy. He's a good, great, great, great daddy to us here So anyone want to talk to us? I can sing. Anyone.
+
+01:53:14.000 --> 01:53:23.000
+I'm trying to give you a chance to talk. And you are not talking and your hands are up.
+
+01:53:23.000 --> 01:53:30.000
+Okay, since you are not talking, I think I will… say that's up.
+
+01:53:30.000 --> 01:53:44.000
+So that is how you be able to navigate around LMS. Lms navigation is key. Remember, I've told you At PRP, learning happens on the LMS.
+
+01:53:44.000 --> 01:53:52.000
+On the PFP academic course. And that's it. Thank you so much for joining.
+
+01:53:52.000 --> 01:54:01.000
+See you. Tomorrow, if you like, there will be an evening session You can also join in.
+
+01:54:01.000 --> 01:54:11.000
+Thank you. And have a blessed afternoon.
+
